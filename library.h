@@ -1,0 +1,6 @@
+#ifndef INTERPRETER_LIBRARY_H
+#define INTERPRETER_LIBRARY_H
+
+void hello(void);
+
+#endif //INTERPRETER_LIBRARY_H

@@ -1,0 +1,5 @@
+# ninja log v5
+5	64	7122301746722275	CMakeFiles/interpreter.dir/main.c.obj	34776a826cc38bbf
+0	69	7122301746782349	CMakeFiles/interpreter.dir/library.c.obj	dc3c2e27f06708bc
+70	190	7122301747954375	libinterpreter.dll	211e1e44b1ac46b0
+70	190	7122301747954375	libinterpreter.dll.a	211e1e44b1ac46b0
