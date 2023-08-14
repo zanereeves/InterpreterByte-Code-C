@@ -1,0 +1,9 @@
+
+var integer = 1;
+
+while (integer < 20) {
+    print(integer);
+    integer = integer + 1;
+}
+
+

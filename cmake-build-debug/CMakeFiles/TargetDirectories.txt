@@ -1,3 +1,4 @@
-C:/Users/sonic/CLionProjects/interpreter/cmake-build-debug/CMakeFiles/interpreter.dir
-C:/Users/sonic/CLionProjects/interpreter/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sonic/CLionProjects/interpreter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/CMakeFiles/run.dir
+/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/CMakeFiles/InterpreterByte-Code-C.dir
+/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

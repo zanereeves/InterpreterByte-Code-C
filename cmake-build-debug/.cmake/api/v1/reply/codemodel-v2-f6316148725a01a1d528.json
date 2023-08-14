@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "interpreter",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "InterpreterByte-Code-C::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InterpreterByte-Code-C-Debug-094d2093e71fe4b39cc8.json",
+					"name" : "InterpreterByte-Code-C",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run-Debug-250265601cb746ec6b74.json",
+					"name" : "run",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug",
+		"source" : "/Users/zanereeves/CLionProjects/InterpreterByte-Code-C"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

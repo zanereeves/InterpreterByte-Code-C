@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/run.dir/source/main.c.o -o run  -Wl,-rpath,/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug libInterpreterByte-Code-C.dylib 
