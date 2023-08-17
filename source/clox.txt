@@ -1,9 +1,17 @@
-
-var integer = 1;
-
-while (integer < 20) {
-    print(integer);
-    integer = integer + 1;
+fun a() {
+    print(not_defined);
+    print("finished a");
 }
 
 
+fun b() {
+    print("calling a");
+    a();
+}
+
+fun c() {
+    print("calling b");
+    b();
+}
+
+c();

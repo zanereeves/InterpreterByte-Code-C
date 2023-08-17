@@ -8,176 +8,176 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
+				<Option working_dir="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="run">
-				<Option output="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/run" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
+				<Option output="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 run"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 run"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="run/fast">
-				<Option output="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/run" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
+				<Option output="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 run/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 run/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="InterpreterByte-Code-C">
-				<Option output="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/libInterpreterByte-Code-C.dylib" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
+				<Option output="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/libInterpreterByte-Code-C.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="3"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 InterpreterByte-Code-C"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 InterpreterByte-Code-C"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="InterpreterByte-Code-C/fast">
-				<Option output="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/libInterpreterByte-Code-C.dylib" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
+				<Option output="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/libInterpreterByte-Code-C.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="3"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 InterpreterByte-Code-C/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 InterpreterByte-Code-C/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
+				<Option working_dir="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
+				<Option working_dir="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/header/chunk.h">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/header/chunk.h">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/header/common.h">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/header/common.h">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/header/compiler.h">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/header/compiler.h">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/header/debug.h">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/header/debug.h">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/header/memory.h">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/header/memory.h">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/header/object.h">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/header/object.h">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/header/scanner.h">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/header/scanner.h">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/header/table.h">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/header/table.h">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/header/value.h">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/header/value.h">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/header/vm.h">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/header/vm.h">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/source/chunk.c">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/source/chunk.c">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/source/compiler.c">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/source/compiler.c">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/source/debug.c">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/source/debug.c">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/source/library.c">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/source/library.c">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/source/main.c">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/source/main.c">
 			<Option target="run"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/source/memory.c">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/source/memory.c">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/source/object.c">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/source/object.c">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/source/scanner.c">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/source/scanner.c">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/source/table.c">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/source/table.c">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/source/value.c">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/source/value.c">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/source/vm.c">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/source/vm.c">
 			<Option target="InterpreterByte-Code-C"/>
 		</Unit>
-		<Unit filename="/Users/zanereeves/CLionProjects/InterpreterByte-Code-C/CMakeLists.txt">
+		<Unit filename="C:/Users/zstev/CLionProjects/InterpreterByte-Code-C/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

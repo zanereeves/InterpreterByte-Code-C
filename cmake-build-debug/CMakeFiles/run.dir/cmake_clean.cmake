@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/run.dir/source/main.c.o"
-  "CMakeFiles/run.dir/source/main.c.o.d"
-  "run"
+  "CMakeFiles/run.dir/source/main.c.obj"
+  "CMakeFiles/run.dir/source/main.c.obj.d"
+  "librun.dll.a"
+  "run.exe"
+  "run.exe.manifest"
   "run.pdb"
 )
 
